@@ -35,3 +35,9 @@ Patient Registration → Symptoms & Vitals → Multilingual Voice Intake → Str
 - Offline/local workflow handling
 - AI integration points for voice processing, urgency assessment, and image analysis
 
+## Responsible AI
+
+MediPulse AI is decision-support software and does not replace qualified healthcare professionals or provide a final medical diagnosis.
+Final clinical decisions remain with qualified healthcare professionals.
+Real-world deployment would require validated models, clinical testing, security controls, monitoring, privacy protections, and applicable regulatory compliance.
+
